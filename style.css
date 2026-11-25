@@ -55,3 +55,16 @@
     width: 30%;
     margin-left: 20%;
 }
+.box2{
+    margin: 50px 80px ;
+}
+.box2 p{
+    padding-bottom: 30px;
+    color: #141414;
+    padding-top: 30px;
+    font-size: 20px;
+}
+.box2 h2{
+    font-weight: 500;
+    font-size: 30px;
+}
