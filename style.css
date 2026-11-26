@@ -133,3 +133,25 @@
         margin: 20px 40px;
         font-weight: 500;
 }
+.box6{
+    margin: 20px 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 15px;
+}
+.pp{
+    color: #017CC1;
+}
+.div10{
+    margin: 20px 40px;
+    border: 1px solid #F0F6F9;
+    background-color: #F0F6F9;
+    padding: 20px;
+
+}
+.ppp1{
+    margin: 20px 80px;
+    padding-top: 40px;
+
+}
