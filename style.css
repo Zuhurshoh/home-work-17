@@ -98,14 +98,16 @@
   padding-bottom: 30px;
 }
 .div7 {
+    padding: 20px 60px;
   display: flex;
   align-items: center;
   justify-content: space-between;
 }
 .box4 {
+    gap: 20px;
   display: flex;
   align-items: center;
-  justify-content: space-around;
+  justify-content: space-between;
   padding: 30px 40px;
 }
 .div8 button {
@@ -118,5 +120,16 @@
   padding: 20px 0px;
 }
 .div8 h3 {
+    color: #017CC1;
   padding-top: 20px;
+}
+.box5{
+    margin: 20px 40px;
+    padding: 40px;
+    border: 1px solid #00578A;
+    background-color: #00578A;
+}
+.h11{
+        margin: 20px 40px;
+        font-weight: 500;
 }
